@@ -1,0 +1,100 @@
+h1{
+  color:#900C3F;
+  font-size: 300%!important;
+  font-family: Consolas, sans-serif;
+}
+
+h2{
+  color:#C70039;
+  font-size: 250%!important;
+  font-family: Consolas, sans-serif;
+  padding:10px 0px;
+}
+
+h3{
+  color:#DBC556;
+  font-size: 200%!important;
+  font-family: Consolas, sans-serif;
+}
+
+h4{
+  color:#B9D28B;
+  font-size: 100%!important;
+  font-family: Consolas, sans-serif;
+}
+
+h5{
+    color:#0B1057;
+    font-size: 100%!important;
+    font-family: Consolas, sans-serif;
+}
+
+h6{
+    color:#900C3F;
+    font-size: 75%!important;
+    font-family: Consolas, sans-serif;
+}
+
+.middlehome{
+  margin:auto;
+  width:100%;
+  padding:225px 0px;
+  text-align:center;
+}
+
+.middle{
+  margin:auto;
+  width:100%;
+  padding: 20px;
+  text-align:center;
+}
+
+.descriptions{
+  margin:auto;
+  width:90%;
+  padding:20px;
+  text-align:center;
+}
+
+.information{
+  margin:auto;
+  width:80%;
+  padding:20px 30px;
+  text-align:center;
+}
+
+.profile{
+  margin:auto;
+  width:40%;
+  padding:20px 30px;
+  text-align:center;
+}
+
+img {
+  max-width: 100%;
+  padding:10px;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+table, th, td {
+  border: 1px solid #0B1057!important;
+  border-collapse: collapse;
+  padding: 10px 0px;
+}
+
+
+@media (min-width: 500px){
+  h1:: before {
+    content: "Welcome to my webpage";
+  }
+}
+
+@media (max-width: 499px){
+  h1:: before {
+    content: "Welcome";
+  }
+}
