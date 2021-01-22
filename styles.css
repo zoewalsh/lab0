@@ -87,10 +87,13 @@ a{
     width:100%!important;
   }
   table{
-    min-width:300px!important;
+    min-width:600px!important;
     overflow:scroll;
   }
   h5{
-    font-size:40%!important;
+    font-size:75%!important;
+  }
+  h4{
+    font-size:60%!important;
   }
 }
