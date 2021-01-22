@@ -83,4 +83,7 @@ a{
   #rectangle{
     width: 300px!important;
   }
+  .information{
+    width:100%!important;
+  }
 }
