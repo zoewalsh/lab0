@@ -81,6 +81,6 @@ a{
     max-width:100%!important;
   }
   #rectangle{
-    width: 300px;
+    width: 300px!important;
   }
 }
