@@ -68,7 +68,7 @@ a{
 
 #rectangle{
   height: 5px;
-  width: 600px;
+  width: 700px;
   background-color: #DBC556;
   margin: auto;
 }
@@ -79,5 +79,8 @@ a{
   }
   img.photo{
     max-width:100%!important;
+  }
+  #rectangle{
+    width: 300px;
   }
 }
