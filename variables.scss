@@ -1,0 +1,41 @@
+%fonttype{
+  font-family: Consolas, sans-serif;
+}
+
+.red {
+  color:#900C3F;
+  h1{
+    font-size: 400%!important;
+    @extend %fonttype;
+  }
+
+  h6{
+    font-size: 75%!important;
+    @extend %fonttype;
+  }
+}
+
+h2{
+  color:#C70039;
+  font-size: 250%!important;
+  @extend %fonttype;
+  padding:10px 0px;
+}
+
+h3{
+  color:#DBC556;
+  font-size: 200%!important;
+  @extend %fonttype;
+}
+
+h4{
+  color:#B9D28B;
+  font-size: 100%!important;
+  @extend %fonttype;
+}
+
+h5{
+  color:#0B1057;
+  font-size: 100% !important;
+  @extend %fonttype;
+}
