@@ -86,4 +86,11 @@ a{
   .information{
     width:100%!important;
   }
+  table{
+    min-width:300px!important;
+    overflow:scroll;
+  }
+  h5{
+    font-size:40%!important;
+  }
 }
