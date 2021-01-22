@@ -54,6 +54,10 @@ img.photo{
   max-width:50%;
 }
 
+a:visited{
+  color:#C70039!important;
+}
+
 a:hover{
   color:#DBC556!important;
 }
