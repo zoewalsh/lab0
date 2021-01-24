@@ -2,7 +2,7 @@
 
 ENGO 551 - Adv. Topics on Geospatial Technologies
 
-My personal webpage displays a photo of me, some information about me, contact information for email and linkedin, some lists of my interests, as well as some of my film photography work.
+My personal webpage displays a photo of me, some information about me, contact information for email and linkedin, some lists of my interests, as well as some of my film photography work. The pages are as follows:
 
 index.html - This is the home page of the site. It shows my name, a caption (Geomatics Engineering Student), a rectangle shape, and 4 bootstrap buttons for navigating from page to page. The button colour and text colour of the button changes as it is hovered over. The page you are on appears as a different button colour.
 
